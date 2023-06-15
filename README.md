@@ -1,16 +1,19 @@
-# rido_biko
+# rido_biko_task
 
-A new Flutter project.
+* responsive ui, hive, bloc
 
-## Getting Started
+* I used hive to make sure that the splash screen will be visited only once
 
-This project is a starting point for a Flutter application.
+* I used bloc as a state management
 
-A few resources to get you started if this is your first Flutter project:
+* Here is a video
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://drive.google.com/file/d/1JSyAPmpY8rn9W_nLyC84X1q2FYODRJg1/view?usp=sharing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* And here are some images
+
+![1](https://github.com/abdullahbokl/rido_biko_task/assets/113001767/408e3370-38ae-4035-9693-08da9e3f793a)
+
+![2](https://github.com/abdullahbokl/rido_biko_task/assets/113001767/ca851564-79e1-4ac4-b086-c3de669e76d8)
+
+![3](https://github.com/abdullahbokl/rido_biko_task/assets/113001767/052528b0-95bb-4169-afb6-202a5076e645)
